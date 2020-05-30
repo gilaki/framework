@@ -1,0 +1,6 @@
+{
+  "require-dev": {
+    "phpmailer/phpmailer": "~6.0",
+    "gregwar/captcha": "~1.1"
+  }
+}

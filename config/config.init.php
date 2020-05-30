@@ -1,0 +1,23 @@
+<?php
+return array(
+  'include'=>array(
+    BASE_DIR."/core/Redirect.php",
+    BASE_DIR."/core/application/App.php",
+    BASE_DIR."/core/DatabaseFactory.php",
+    BASE_DIR."/core/Filter.php",
+    BASE_DIR."/core/View.php",
+    BASE_DIR."/core/Session.php",
+    BASE_DIR."/core/Auth.php",
+    BASE_DIR."/core/Controller.php",
+    BASE_DIR."/core/Model.php",
+    BASE_DIR."/core/IncludeFile.php",
+    BASE_DIR."/config/config.development.php",
+    BASE_DIR."/core/Request.php",
+    BASE_DIR."/core/Text.php",
+    BASE_DIR."/core/Validate.php",
+    BASE_DIR."/core/Csrf.php",
+    BASE_DIR."/core/Hash.php",
+    BASE_DIR."/core/Mail.php",
+    BASE_DIR."/core/captcha/Captcha.php",
+  )
+);
